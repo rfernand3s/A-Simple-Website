@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/45701541/86796055-921e7480-c044-11ea-9a9e-f7e41b4f97d3.png" >
+</p>
+
+
+
 # A-Simple-Website
 Projeto de um simples website criado para fins de estudo e aprendizado utilizando HTML e CSS
 
