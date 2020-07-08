@@ -26,6 +26,8 @@ pela interação do cursos, e ao clique em determinados pontos da tela.
 
 
 ## **Conclusão**
-Por fim, a conclusão deste trabalho é de que diferente de outras linguagens de programação, como Java ou Python,
-com HTML e CSS podemos criar trabalho cujos resultados são mais "palpáveis" e que conseguem, por assim dizer, 
-trazer mais motivação para continuarmos aprendendo e desenvolviendo programas cada vez mais aprofundados.
+A conclusão deste trabalho é que diferente de outras linguagens de programação, como Java ou Python,
+com HTML e CSS podemos criar trabalho cujos resultados aparecem mais rapidamente e que por ser possivel
+visualizar estes resultados de forma mais interativa, isso pode nos motivar mais a continuar aprendendo.
+Especialmente nas fases iniciais, onde nosso aprendizado tende a ser mais demorado, por isso criar nossos 
+proprios projetos o quanto antes é uma forma de nos mantermos focados e estimulados em continuar aprendendo.
